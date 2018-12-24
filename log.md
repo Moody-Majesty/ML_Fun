@@ -34,3 +34,12 @@ Submitted the week2 assignment, got 100/100 score :)
 4. Polynomial regression
 
 **Thoughts:** Feature scaling and Learning rate is the key to best fit sometimes but analyzing your data also most important
+
+## Day 3,4,5: December 14, 15, 16 2018
+
+**Progress:** learnt how NLTK-3.4 language module works and how to use and apply different preprocessing, models and smoothing techniques to predict next word.
+
+1. Learnt how to prepare data, train model and predicting next word along with score
+2. Smoothing algorithms for language modeling.
+
+**Thoughts:** It is somewhat easy to predict next word based on previously known context using language models but is more difficult to predict on domain specific data with lots of grammatic mistakes.
