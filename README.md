@@ -1,2 +1,3 @@
-# 100DaysOfMLCode
-The challenge by siraj rawal in which I learn and code Machine Learning everyday at least 1 hour.
+Hey Welcome to my Portfolio. Here I try to implement some cool stuffs related to Python, SQL and mainly on Machine Learning, Deep Learning, Data Science, Computer Vision and many more.
+
+Feel free to contribute if you want to and give it a thumbsup if you liked it.
