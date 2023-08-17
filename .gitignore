@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.csv
+.tar.gz
+.tgz
+.zip
+.pdf
+.sqlite
+.vscode
+.pkl
